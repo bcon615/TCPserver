@@ -1,0 +1,14 @@
+\\fileserv\userdata$\wconnor\My Documents\GitHub\TCPserver\TCPserver\bin\Debug\TCPserver.exe.config
+\\fileserv\userdata$\wconnor\My Documents\GitHub\TCPserver\TCPserver\bin\Debug\TCPserver.exe
+\\fileserv\userdata$\wconnor\My Documents\GitHub\TCPserver\TCPserver\bin\Debug\TCPserver.pdb
+\\fileserv\userdata$\wconnor\My Documents\GitHub\TCPserver\TCPserver\obj\Debug\TCPserver.csprojResolveAssemblyReference.cache
+\\fileserv\userdata$\wconnor\My Documents\GitHub\TCPserver\TCPserver\obj\Debug\TCPserver.Form1.resources
+\\fileserv\userdata$\wconnor\My Documents\GitHub\TCPserver\TCPserver\obj\Debug\TCPserver.Properties.Resources.resources
+\\fileserv\userdata$\wconnor\My Documents\GitHub\TCPserver\TCPserver\obj\Debug\TCPserver.csproj.GenerateResource.Cache
+\\fileserv\userdata$\wconnor\My Documents\GitHub\TCPserver\TCPserver\obj\Debug\TCPserver.csproj.CoreCompileInputs.cache
+\\fileserv\userdata$\wconnor\My Documents\GitHub\TCPserver\TCPserver\obj\Debug\TCPserver.exe
+\\fileserv\userdata$\wconnor\My Documents\GitHub\TCPserver\TCPserver\obj\Debug\TCPserver.pdb
+\\fileserv\userdata$\wconnor\My Documents\GitHub\TCPserver\TCPserver\bin\Debug\TCPserver.exe.manifest
+\\fileserv\userdata$\wconnor\My Documents\GitHub\TCPserver\TCPserver\bin\Debug\TCPserver.application
+\\fileserv\userdata$\wconnor\My Documents\GitHub\TCPserver\TCPserver\obj\Debug\TCPserver.exe.manifest
+\\fileserv\userdata$\wconnor\My Documents\GitHub\TCPserver\TCPserver\obj\Debug\TCPserver.application
